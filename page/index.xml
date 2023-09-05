@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>Pages on 关于Zhouyvchen的一切</title>
+        <link>https://example.com/page/</link>
+        <description>Recent content in Pages on 关于Zhouyvchen的一切</description>
+        <generator>Hugo -- gohugo.io</generator>
+        <language>zh-cn</language>
+        <copyright>ZHOUYVCHEN</copyright>
+        <lastBuildDate>Thu, 31 Aug 2023 09:48:27 +0800</lastBuildDate><atom:link href="https://example.com/page/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>归档</title>
+        <link>https://example.com/archives/</link>
+        <pubDate>Thu, 31 Aug 2023 09:48:27 +0800</pubDate>
+        
+        <guid>https://example.com/archives/</guid>
+        <description></description>
+        </item>
+        <item>
+        <title>关于</title>
+        <link>https://example.com/%E5%85%B3%E4%BA%8E/</link>
+        <pubDate>Thu, 31 Aug 2023 00:00:00 +0000</pubDate>
+        
+        <guid>https://example.com/%E5%85%B3%E4%BA%8E/</guid>
+        <description>&lt;h1 id=&#34;hello-hugo&#34;&gt;Hello hugo&lt;/h1&gt;
+&lt;h2 id=&#34;关于我的现状&#34;&gt;关于我的现状&lt;/h2&gt;
+&lt;p&gt;来自十八线小县城，大学在读的懒狗😁，正在努力学习计算机知识&lt;/p&gt;
+&lt;h2 id=&#34;本站的期望&#34;&gt;本站的期望&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;希望每月能够产出一篇文章&lt;/li&gt;
+&lt;li&gt;能够帮助到别人&lt;/li&gt;
+&lt;li&gt;有人来与我互动&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        </item>
+        <item>
+        <title>搜索</title>
+        <link>https://example.com/search/</link>
+        <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+        
+        <guid>https://example.com/search/</guid>
+        <description></description>
+        </item>
+        
+    </channel>
+</rss>

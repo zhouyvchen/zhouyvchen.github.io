@@ -1,0 +1,564 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>关于Zhouyvchen的一切</title>
+        <link>https://example.com/</link>
+        <description>Recent content on 关于Zhouyvchen的一切</description>
+        <generator>Hugo -- gohugo.io</generator>
+        <language>zh-cn</language>
+        <copyright>ZHOUYVCHEN</copyright>
+        <lastBuildDate>Thu, 31 Aug 2023 09:48:27 +0800</lastBuildDate><atom:link href="https://example.com/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>暑假</title>
+        <link>https://example.com/p/%E6%9A%91%E5%81%87/</link>
+        <pubDate>Sun, 13 Aug 2023 10:59:42 +0800</pubDate>
+        
+        <guid>https://example.com/p/%E6%9A%91%E5%81%87/</guid>
+        <description>&lt;h1 id=&#34;大一暑假&#34;&gt;大一暑假&lt;/h1&gt;
+&lt;h2 id=&#34;回家-20230706&#34;&gt;回家 2023.07.06&lt;/h2&gt;
+&lt;p&gt;还是家里最好，即便三个月没回来了，但是家里的一切我都熟悉。&lt;/p&gt;
+&lt;h2 id=&#34;听见涛声-20230710&#34;&gt;听见涛声 2023.07.10&lt;/h2&gt;
+&lt;p&gt;我从没去过海边，但是已经见过了。
+记忆里的海，一时候阴郁，昏沉的天空，浑浊的海平面，天气冷清让人不时哆嗦，可是夏天的海那么灿烂，灼目的阳光下它过曝，在我的瞳孔里刻下痕迹。想起来很多年的海，我现在却少见了。&lt;/p&gt;
+&lt;h2 id=&#34;前言-202307&#34;&gt;前言 (2023.07)&lt;/h2&gt;
+&lt;p&gt;又是很长一段时间没有写日记了，我都快要忘记了这种习惯，让我自豪的习惯&lt;/p&gt;
+&lt;p&gt;这么说起来还是很现实呢，因为我做过的许多打算，到最后都做不到，但是我还是想做成几件，所以我开始记录这个夏天，大学的第一个暑假。&lt;/p&gt;
+&lt;h2 id=&#34;暑假目标-20230730-23时-星期天&#34;&gt;暑假目标 2023.07.30 23时 星期天&lt;/h2&gt;
+&lt;p&gt;先列几个：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;接着写[[过曝]]&lt;/li&gt;
+&lt;li&gt;初步学会[[Go]]&lt;/li&gt;
+&lt;li&gt;完善[[博客主页]]&lt;/li&gt;
+&lt;li&gt;看完[[疾速追杀系列]]&lt;/li&gt;
+&lt;li&gt;优化一下文章文件管理方式&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;搭建hugo-20230731-22时-星期一&#34;&gt;搭建Hugo 2023.07.31 22时 星期一&lt;/h2&gt;
+&lt;p&gt;因为之前买的腾讯云轻量化服务器要过期了，续费的话对暑假没有生活费的我来说有些昂贵&lt;del&gt;其实在四十五，因为暑假花得太多了&lt;/del&gt;，于是我想到了&lt;code&gt;Hugo&lt;/code&gt;+&lt;code&gt;Github Page&lt;/code&gt;方案，一来不需要为服务器价格发愁，而来也提高一下编程水平。&lt;/p&gt;
+&lt;p&gt;学习搭建hugo的时候，也学习了一些&lt;code&gt;git&lt;/code&gt;的使用方法，为了加强记忆，所以我记录下来：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;初始化本地仓库git &lt;code&gt;git init&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;认证ssh密钥 &lt;code&gt;ssh-keygen -t rsa -C &amp;quot;youremail@example.com&amp;quot;&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;获取密钥 &lt;code&gt;cat  ~/.ssh/id_rsa.pub&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;连接仓库 &lt;code&gt;git remote add 仓库别名 仓库地址&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;提交:
+1. &lt;code&gt;git add .&lt;/code&gt;
+2.&lt;code&gt;git commit -m &#39;备注&#39;&lt;/code&gt;
+3.&lt;code&gt;git push -u origin master&lt;/code&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;明天继续努力把hugo配置成想要的样子！&lt;/p&gt;
+&lt;h2 id=&#34;没有钱的痛苦-20230807-10时-星期一&#34;&gt;没有钱的痛苦 2023.08.07 10时 星期一&lt;/h2&gt;
+&lt;p&gt;暑假没有钱就是最痛苦的，但其实我不是一直没有钱，而是钱花得太快了。我的娱乐活动，全靠长辈们，但也不多，老汉基本上不给我钱，很窘迫。昨天和王傲冉他们出去玩了，很快乐，但是为了去吃饭，csgo库存里值钱的全被我卖掉了，哎，不过还是现实的快乐更快乐，同时，也见到了   ，一句话也没说。&lt;/p&gt;
+&lt;p&gt;第一次出来，想说又不敢说，第二次，我们高兴的牵手，现在我只有维持事宜地沉默。&lt;/p&gt;
+&lt;p&gt;昨天，在恍惚间，我想到以前做过的事：还是小学三四年纪吧，那天早上我哭闹着要我妈妈带我去上学，而不是我奶奶，并不是因为我更喜欢我妈妈而不喜欢我奶奶，而是我眼红于学校门口卖玩具，好像是十一元，对于我来说是一笔巨款，父母也不会给我零花钱，只有妈妈带我去上学，也许我哭闹才能让她给我买。但是她没空，也要去上班，应付不住我的哭闹，给了我五块钱，父亲在旁边吃早饭，很生气，我还是继续哭闹，妈妈只好带着我去学校，到了学校门口，看着玩具，妈妈拒绝了，我也只有去上学，拼命哭闹也并没有得到什么，回过头来，很遗憾，为什么我要这么执着最后大家都不高兴呢？小时候的我不懂，现在也许懂了。&lt;/p&gt;
+&lt;h2 id=&#34;oh-my-posh折腾-20230808-00时-星期二&#34;&gt;oh-my-posh折腾 2023.08.08 00时 星期二&lt;/h2&gt;
+&lt;p&gt;浅浅的美化了一下powershell，大概是这样：
+&lt;img src=&#34;https://raw.githubusercontent.com/zhouyvchen/PicGo/main/picture/ohmyposh.png&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;演示&#34;
+	
+	
+&gt;
+折腾，也蛮消磨时间的。&lt;/p&gt;
+&lt;h2 id=&#34;开始学习java吃饭-20230809-22时-星期三&#34;&gt;开始学习Java&amp;amp;吃饭 2023.08.09 22时 星期三&lt;/h2&gt;
+&lt;p&gt;今天的主线是下载Idea和配置Java环境，一天过去了。&lt;/p&gt;
+&lt;p&gt;晚上听我妈问我爸休假的事，
+”你好久放假嘛？“
+”放假了带我们出去耍哈赛！“
+我心想肯定是没戏的，不过他说，
+”好久出去吃一顿嘛“
+那就太好了，想起来家里面好像很少出去吃过饭，出去吃饭都是别人请客，好不容易一家人出去吃一顿，真是太棒了。&lt;/p&gt;
+&lt;h2 id=&#34;在一个阳光灿烂的日子-20230812-23时-星期六&#34;&gt;在一个阳光灿烂的日子 2023.08.12 23时 星期六&lt;/h2&gt;
+&lt;p&gt;上午刷B站，看一个在日本留学的up主的视频，各色各样的人在斑马线走过，天空晴朗敞亮，而现在的富顺，很少有这种天气了，多怀念啊，可能现在我也不善早起了。&lt;/p&gt;
+&lt;p&gt;晚上和哥们些出去逛了一圈，爬上了罗浮洞山上的塔，真是累死我了，还被蚊子咬了好几个包。
+&lt;img src=&#34;https://raw.githubusercontent.com/zhouyvchen/PicGo/main/test/IMG20230812195616.jpg&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;山顶&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;h2 id=&#34;旧日子-20230813-23时-星期天&#34;&gt;旧日子 2023.08.13 23时 星期天&lt;/h2&gt;
+&lt;p&gt;那个时候一切都是比较旧的，水泥路边零碎着煤灰的瓦房，小时候和哥哥一切探险过，在那个阴湿的环境里，耗子，土元，蜘蛛网，旧灰构成另一种生态。&lt;/p&gt;
+&lt;h2 id=&#34;开学前紧张-20230821-19时-星期一&#34;&gt;开学前紧张 2023.08.21 19时 星期一&lt;/h2&gt;
+&lt;p&gt;还有十天就要开学了，暑假过去得也太快了吧！
+这是大学的第二个假期，没有发生特别的事，一切都很寻常，和哥们去特色牛肉面吃早饭，晚上去宏帆 ，西湖塘逛逛，集合总在麦当劳靠窗的座位，早上还是时不时睡懒觉，下午玩电脑到打瞌睡，晚上说不熬夜还是在上床之后多刷个把小时手机。&lt;/p&gt;
+&lt;p&gt;想到上次去打乒乓已经过了很久了，但是还在暑假里，这么一想，暑假的两个月还是很漫长，不过每天都是重复。&lt;/p&gt;
+&lt;p&gt;回到学校之后，三个还不熟悉的室友，夹在中间的座位，没有能对上电波的室友，睡一晚就会揉成一团的床单，真是糟心，好窘迫。&lt;/p&gt;
+&lt;p&gt;也许，我该和新室友旧室友们增强感情。&lt;/p&gt;
+&lt;h2 id=&#34;第一次聚会-20230823-09时-星期三&#34;&gt;第一次聚会 2023.08.23 09时 星期三&lt;/h2&gt;
+&lt;p&gt;昨天是父亲生日，我们家第一次出去聚餐。
+&lt;img src=&#34;https://raw.githubusercontent.com/zhouyvchen/PicGo/main/test/202308230947359.jpg&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;第一次聚会&#34;
+	
+	
+&gt;
+可惜没有来个合照。&lt;/p&gt;
+&lt;h2 id=&#34;吃麦当劳的时候我在吃什么-20230830-23时-星期三&#34;&gt;吃麦当劳的时候我在吃什么？ 2023.08.30 23时 星期三&lt;/h2&gt;
+&lt;blockquote&gt;
+&lt;p&gt;上一次吃麦当劳是什么时候呢？&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;应该已经有半年了。&lt;/p&gt;
+&lt;p&gt;昨天，我爸说有应酬，不回来吃饭，妈妈也要上班，正好我很久没吃快餐了，准确说是像麦当劳一样美味的快餐了，于是我妈说今天晚上去吃麦当劳吧。&lt;/p&gt;
+&lt;p&gt;早上八点过起来，我妈买菜回来，还带了几个包子和燕窝丝，吃的时候想起来在学校遇到的一件事（燕窝丝 or 花卷？）不过不是重点，她上班出门之前说土豆丝给我切好了，可惜早餐吃太饱，玩累了一觉睡到下午六点。&lt;/p&gt;
+&lt;p&gt;我妈的电话把我叫醒，她问我是出来吃还是她给我带回来，从睡梦中被拽醒的人面对选择是很勉强的，我说那你带回来吧。电话刚打完，睡意就结束了。&lt;/p&gt;
+&lt;p&gt;打开微信小程序，在麦当劳各种套餐里对比，果然，好贵。我从小奢望的，就是从容地在麦当劳这样的快餐店里吃饱。对比一下美团上的价格，带给我的只有窘迫，母亲发来一张截图问我怎么样，当然，美味，好少，好贵。我说我在看看划算的，正好发现一个随心配，哈哈多好笑的命名，给最不能随心的人一个随心配的选择。&lt;/p&gt;
+&lt;p&gt;还是那么好吃，袋子都是快餐店空调的好闻味道。&lt;/p&gt;
+&lt;p&gt;人们说中国人最爱反思，做什么事都要反思，但是我无力，心中羞愧。&lt;/p&gt;
+&lt;p&gt;我和朋友说：“很多年以后，我也爱吃炸鸡喝可乐。我以后最想过的生活就是一日三餐都能去快餐店吃饭。“&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>归档</title>
+        <link>https://example.com/archives/</link>
+        <pubDate>Thu, 31 Aug 2023 09:48:27 +0800</pubDate>
+        
+        <guid>https://example.com/archives/</guid>
+        <description></description>
+        </item>
+        <item>
+        <title>关于</title>
+        <link>https://example.com/%E5%85%B3%E4%BA%8E/</link>
+        <pubDate>Thu, 31 Aug 2023 00:00:00 +0000</pubDate>
+        
+        <guid>https://example.com/%E5%85%B3%E4%BA%8E/</guid>
+        <description>&lt;h1 id=&#34;hello-hugo&#34;&gt;Hello hugo&lt;/h1&gt;
+&lt;h2 id=&#34;关于我的现状&#34;&gt;关于我的现状&lt;/h2&gt;
+&lt;p&gt;来自十八线小县城，大学在读的懒狗😁，正在努力学习计算机知识&lt;/p&gt;
+&lt;h2 id=&#34;本站的期望&#34;&gt;本站的期望&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;希望每月能够产出一篇文章&lt;/li&gt;
+&lt;li&gt;能够帮助到别人&lt;/li&gt;
+&lt;li&gt;有人来与我互动&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        </item>
+        <item>
+        <title>常用电脑软件推荐</title>
+        <link>https://example.com/p/%E5%B8%B8%E7%94%A8%E7%94%B5%E8%84%91%E8%BD%AF%E4%BB%B6%E6%8E%A8%E8%8D%90/</link>
+        <pubDate>Tue, 01 Aug 2023 17:38:06 +0800</pubDate>
+        
+        <guid>https://example.com/p/%E5%B8%B8%E7%94%A8%E7%94%B5%E8%84%91%E8%BD%AF%E4%BB%B6%E6%8E%A8%E8%8D%90/</guid>
+        <description>&lt;h2 id=&#34;clash-for-windows&#34;&gt;clash for windows&lt;/h2&gt;
+&lt;blockquote&gt;
+&lt;p&gt;让你连接上互联网的代理工具&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;https://docs.cfw.lbyczf.com/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;clash for windows文档&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;https://github.com/Fndroid/clash_for_windows_pkg&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;github项目&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;[winstall][https://github.com/Fndroid/clash_for_windows_pkg/releases/download/0.20.19/Clash.for.Windows.Setup.0.20.19.ia32.exe]&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;bandizip&#34;&gt;Bandizip&lt;/h2&gt;
+&lt;blockquote&gt;
+&lt;p&gt;简洁方便的解压工具&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;ul&gt;
+&lt;li&gt;[bandizip官网][https://www.bandisoft.com/]&lt;/li&gt;
+&lt;li&gt;[微软商店代下载][https://apps.microsoft.com/store/detail/bandizip/9P2W3W81SPPB?hl=zh-cn&amp;amp;gl=cn]&lt;/li&gt;
+&lt;li&gt;蓝奏云：https://wwuh.lanzout.com/inUxs0yr9awd 密码:b4zw&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;geek-uninstall&#34;&gt;Geek uninstall&lt;/h2&gt;
+&lt;blockquote&gt;
+&lt;p&gt;轻量的卸载工具&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;ul&gt;
+&lt;li&gt;[geek uninstall官网][https://geekuninstaller.com/download]&lt;/li&gt;
+&lt;li&gt;蓝奏云：https://wwuh.lanzout.com/iODHG0yra1oh 密码:hggv&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;everything&#34;&gt;Everything&lt;/h2&gt;
+&lt;blockquote&gt;
+&lt;p&gt;快速搜索电脑文件&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;ul&gt;
+&lt;li&gt;[Everything][https://www.voidtools.com/zh-cn/]&lt;/li&gt;
+&lt;li&gt;蓝奏云：https://wwuh.lanzout.com/iCNDj0yrc4yh 密码:3qy9&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;foobar-2000&#34;&gt;foobar 2000&lt;/h2&gt;
+&lt;blockquote&gt;
+&lt;p&gt;一个本地音乐播放器，建议搭配皮肤使用&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;ul&gt;
+&lt;li&gt;[foobar 2000官网][https://www.foobar2000.org/]&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;potplayer&#34;&gt;Potplayer&lt;/h2&gt;
+&lt;blockquote&gt;
+&lt;p&gt;流畅、无缝的视频播放&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;ul&gt;
+&lt;li&gt;[官网][https://potplayer.daum.net/]&lt;/li&gt;
+&lt;li&gt;[中文站][http://www.potplayercn.com/download]&lt;/li&gt;
+&lt;li&gt;蓝奏云:&lt;/li&gt;
+&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;https://wwuh.lanzout.com/ipDba0yrwnmj&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://wwuh.lanzout.com/ipDba0yrwnmj&lt;/a&gt; 密码:8u1r&lt;/li&gt;
+&lt;li&gt;winstall:https://t1.daumcdn.net/potplayer/PotPlayer/Version/230405/PotPlayerSetup64.exe&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;motrix&#34;&gt;Motrix&lt;/h2&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Motrix是一个全功能的下载管理器，支持下载HTTP、FTP、BitTorrent、Magnet等。&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;ul&gt;
+&lt;li&gt;[motrix][https://motrix.app/]&lt;/li&gt;
+&lt;li&gt;winstall:https://github.com/agalwood/Motrix/releases/download/v1.8.19/Motrix-Setup-1.8.19.exe&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;typora&#34;&gt;Typora&lt;/h2&gt;
+&lt;blockquote&gt;
+&lt;p&gt;一个markdown编辑器，markdown阅读器&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;ul&gt;
+&lt;li&gt;[typora][https://typora.io/]&lt;/li&gt;
+&lt;li&gt;winstall:https://download.typora.io/windows/typora-setup-ia32-1.6.7.exe&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;picgo&#34;&gt;PicGo&lt;/h2&gt;
+&lt;blockquote&gt;
+&lt;p&gt;一个用于快速上传图片并获取图片 URL 链接的工具&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;ul&gt;
+&lt;li&gt;[PicGo][https://picgo.github.io/PicGo-Doc/]&lt;/li&gt;
+&lt;li&gt;Github:https://github.com/Molunerfinn/PicGo&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1 id=&#34;随缘更新中&#34;&gt;&lt;del&gt;随缘&lt;/del&gt;更新中&lt;/h1&gt;
+</description>
+        </item>
+        <item>
+        <title>记录：Typecho搭建</title>
+        <link>https://example.com/p/%E8%AE%B0%E5%BD%95typecho%E6%90%AD%E5%BB%BA/</link>
+        <pubDate>Tue, 01 Aug 2023 17:38:06 +0800</pubDate>
+        
+        <guid>https://example.com/p/%E8%AE%B0%E5%BD%95typecho%E6%90%AD%E5%BB%BA/</guid>
+        <description>&lt;h1 id=&#34;前言&#34;&gt;前言&lt;/h1&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;为什么选择-typecho-&#34;&gt;为什么选择 typecho ？&lt;/h2&gt;
+&lt;p&gt;相比于wordpress，typecho轻量极简的特点成为我选择它的理由。&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;typecho的官方网站：&lt;a class=&#34;link&#34; href=&#34;https://typecho.org/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;typecho.org&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;typecho Github地址：&lt;a class=&#34;link&#34; href=&#34;https://github.com/typecho/typecho&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://github.com/typecho/typecho&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;域名购买&#34;&gt;域名购买&lt;/h2&gt;
+&lt;p&gt;我选择的是&lt;a class=&#34;link&#34; href=&#34;https://hk.godaddy.com/en&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;Godaddy&lt;/a&gt;&lt;/p&gt;
+&lt;h3 id=&#34;理由&#34;&gt;理由&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;大厂&lt;/li&gt;
+&lt;li&gt;相对于国内平台不用备案&lt;/li&gt;
+&lt;li&gt;相比其他国外平台支持支付宝&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;购买-vps&#34;&gt;购买 VPS&lt;/h2&gt;
+&lt;p&gt;因为零经验，全靠网上查教程，按照教程在&lt;a class=&#34;link&#34; href=&#34;https://www.hostwinds.com/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;hostwinds.com&lt;/a&gt;上购买了VPS，即使是最便宜的服务，也是8$/moth，后来朋友告诉我价格偏高&lt;/p&gt;
+&lt;p&gt;实际上如果你是学生完全可以选择&lt;a class=&#34;link&#34; href=&#34;cloud.tencent.com&#34; &gt;腾讯云&lt;/a&gt;上购买&lt;a class=&#34;link&#34; href=&#34;https://cloud.tencent.com/act/campus#step1&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;校园云服务器&lt;/a&gt;&lt;/p&gt;
+&lt;img src=&#34;C:\Users\bokeboke\Pictures\Screenshots\屏幕截图 2023-05-27 200654.png&#34; alt=&#34;屏幕截图 2023-05-27 200654&#34; style=&#34;zoom:33%;&#34; /&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;连接-vps&#34;&gt;连接 VPS&lt;/h2&gt;
+&lt;p&gt;&lt;code&gt;注：此处以_Hostwinds_为例&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;购买成功后，你有两个途径可以获得你所购买的VPS的信息&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;购买成功后的邮件&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;_Hostwinds_的后台管理界面&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;邮件&#34;&gt;邮件&lt;/h3&gt;
+&lt;img src=&#34;C:\Users\bokeboke\Pictures\Screenshots\屏幕截图 2023-05-27 181824.png&#34; alt=&#34;屏幕截图 2023-05-27 181824&#34; style=&#34;zoom:50%;&#34; /&gt;
+&lt;p&gt;你需要记下ip，用户名和密码&lt;/p&gt;
+&lt;h3 id=&#34;_hostwinds_后台&#34;&gt;_Hostwinds_后台&lt;/h3&gt;
+&lt;p&gt;&lt;img src=&#34;C:\Users\bokeboke\Pictures\Screenshots\屏幕截图 2023-05-27 180515.png&#34; alt=&#34;屏幕截图 2023-05-27 180515&#34; style=&#34;zoom:50%;&#34; /&gt;1，点击右下角&lt;font color=&#34;green&#34;&gt;Manage&lt;/font&gt;进入&lt;/p&gt;
+&lt;img src=&#34;C:\Users\bokeboke\Pictures\Screenshots\屏幕截图 2023-05-27 181301.png&#34; alt=&#34;屏幕截图 2023-05-27 181301&#34; style=&#34;zoom:50%;&#34; /&gt;
+&lt;p&gt;2，接着点击&lt;font color=&#34;green&#34;&gt;Click here to Manage This Server&lt;/font&gt;进入具体的管理界面&lt;img src=&#34;C:\Users\bokeboke\Pictures\Screenshots\屏幕截图 2023-05-27 183005.png&#34; alt=&#34;屏幕截图 2023-05-27 183005&#34; style=&#34;zoom:50%;&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;3，在此界面你可以看到ip，点击_VIEW PASSWORD_你可以查看密码，由于Linux vps默认用户名都是“root”，所以在此没有显示&lt;/p&gt;
+&lt;h3 id=&#34;下载连接工具&#34;&gt;下载连接工具&lt;/h3&gt;
+&lt;p&gt;1，由于连接Linux vps是需要工具的，所以我们需要下载连接工具&lt;/p&gt;
+&lt;p&gt;windows用户我推荐使用 xshell&lt;/p&gt;
+&lt;p&gt;&lt;code&gt;xshell官网：https://www.xshell.com/zh/xshell/&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;2，由于xshell本身是需要购买，但它可以获取免费的家庭or学校版本，进入此网址并填写邮箱，家庭or教育版将会发送到该邮箱&lt;/p&gt;
+&lt;p&gt;&lt;code&gt;获得家庭or教育版：https://www.xshell.com/zh/free-for-home-school/&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;没有邮箱的朋友可以通过我的分享链接下载&lt;/p&gt;
+&lt;p&gt;&lt;code&gt;下载链接：https://wwuh.lanzout.com/iyoWz0xfnxgb 密码:98mm&lt;/code&gt;&lt;/p&gt;
+&lt;h3 id=&#34;通过xshell连接vps&#34;&gt;通过xshell连接vps&lt;/h3&gt;
+&lt;p&gt;1,首先打开xshell，点击文件，选择新建&lt;img src=&#34;C:\Users\bokeboke\Pictures\Screenshots\屏幕截图 2023-05-27 184844.png&#34; alt=&#34;屏幕截图 2023-05-27 184844&#34; style=&#34;zoom: 50%;&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;2，在连接界面&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;名称可以随便取一个&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;主机填自己的ip&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;端口默认&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;img src=&#34;C:\Users\bokeboke\Pictures\Screenshots\屏幕截图 2023-05-27 185112.png&#34; alt=&#34;屏幕截图 2023-05-27 185112&#34; style=&#34;zoom:50%;&#34; /&gt;
+&lt;p&gt;3，用户输入root&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://vps234.oss-cn-shanghai.aliyuncs.com/Content/2018-12-11/xshell-connect-linux-vps-2.jpg&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;Linux VPS远程连接新手教程示例3&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;p&gt;4，输入密码，记住密码&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://vps234.oss-cn-shanghai.aliyuncs.com/Content/2018-12-11/xshell-connect-linux-vps-3.jpg&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;Linux VPS远程连接新手教程示例4&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;p&gt;5，成功连接界面如图&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://vps234.oss-cn-shanghai.aliyuncs.com/Content/2018-12-11/xshell-connect-linux-vps-4.jpg&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;Linux VPS远程连接新手教程示例5&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;p&gt;&lt;code&gt;注：如果显示“WARNING! The remote SSH server rejected X11 forwarding request.“也是正常的&lt;/code&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;安装宝塔面板&#34;&gt;安装宝塔面板&lt;/h2&gt;
+&lt;p&gt;宝塔面板是通过可视化界面来管理你的云服务器(Linux或者Window系统),节省操作服务器的时间和精力成本,可以一键安装和搭建网站,可以一键安装PHP运行环境,一键安装java运行环境,一键安装各种开发环境.普通人用的最多的就是搭建和部署网站，对于非专业用户很方便&lt;/p&gt;
+&lt;p&gt;连接上vps之后，在xshell的会话窗口输入脚本安装宝塔面板&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Centos&lt;/strong&gt;:yum install -y wget &amp;amp;&amp;amp; wget -O install.sh &lt;a class=&#34;link&#34; href=&#34;https://download.bt.cn/install/install_6.0.sh&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://download.bt.cn/install/install_6.0.sh&lt;/a&gt; &amp;amp;&amp;amp; sh install.sh ed8484bec&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Ubuntu/Deepin&lt;/strong&gt;:wget -O install.sh &lt;a class=&#34;link&#34; href=&#34;https://download.bt.cn/install/install-ubuntu_6.0.sh&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://download.bt.cn/install/install-ubuntu_6.0.sh&lt;/a&gt; &amp;amp;&amp;amp; sudo bash install.sh ed8484bec&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Debian&lt;/strong&gt;:wget -O install.sh &lt;a class=&#34;link&#34; href=&#34;https://download.bt.cn/install/install-ubuntu_6.0.sh&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://download.bt.cn/install/install-ubuntu_6.0.sh&lt;/a&gt; &amp;amp;&amp;amp; bash install.sh ed8484bec&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;接着提示是否继续，输入y，回车继续，等待一段时间后会提示&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;外网面板地址&lt;/li&gt;
+&lt;li&gt;内网面板地址&lt;/li&gt;
+&lt;li&gt;username&lt;/li&gt;
+&lt;li&gt;password&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;复制地址在浏览器粘贴进入，输入用户名和密码登录&lt;/p&gt;
+&lt;p&gt;提示绑定宝塔账号，用手机号注册一个就行，绑定好之后会提示安装lnmp&lt;/p&gt;
+&lt;img src=&#34;https://vps234.oss-cn-shanghai.aliyuncs.com/Content/1-2022/2022-4-26/6.jpg&#34; alt=&#34;Typecho博客搭建 - 宝塔安装 - LNMP安装&#34; style=&#34;zoom:80%;&#34; /&gt;
+&lt;p&gt;typecho支持php 5.1以上的版本，但最新版typecho需要php 7.1，所以选择php 7.2以上最好，其余默认就好，选择急速安装&lt;/p&gt;
+&lt;p&gt;等待一段时间后安装完毕&lt;/p&gt;
+&lt;h2 id=&#34;创建网站&#34;&gt;创建网站&lt;/h2&gt;
+&lt;p&gt;点击网站，在”php“下创建项目&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;填写域名&lt;/li&gt;
+&lt;li&gt;创建ftp&lt;/li&gt;
+&lt;li&gt;创建数据库mysol&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;保存好ftp和数据库的账号和密码&lt;/p&gt;
+&lt;img src=&#34;C:\Users\bokeboke\Pictures\Screenshots\屏幕截图 2023-05-27 194125.png&#34; alt=&#34;屏幕截图 2023-05-27 194125&#34; style=&#34;zoom:50%;&#34; /&gt;
+&lt;h2 id=&#34;安装typecho&#34;&gt;安装typecho&lt;/h2&gt;
+&lt;p&gt;&lt;code&gt;typecho的官网：https://typecho.org/&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;1，将typecho的压缩包下载在电脑上&lt;/p&gt;
+&lt;p&gt;2，进入宝塔面板，点击“网站”，选择“根目录”&lt;/p&gt;
+&lt;p&gt;![屏幕截图 2023-05-27 194551](C:\Users\bokeboke\Pictures\Screenshots\屏幕截图 2023-05-27 194551.png)&lt;/p&gt;
+&lt;p&gt;3，进入根目录后删除里面的所有文件，接着上传typecho的压缩包，解压在本目录，删除压缩包&lt;/p&gt;
+&lt;p&gt;4，在浏览器输入“你的域名/installphp”&lt;/p&gt;
+&lt;p&gt;&lt;code&gt;如果出现“File not found.”，可能是Nginx没打开，进入宝塔面板，点击软件商店，选择Nginx设置，将它打开&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;5，你会进入typecho安装界面，跟随引导安装&lt;/p&gt;
+&lt;img src=&#34;https://pic1.zhimg.com/80/v2-4051ff54ee9bd7e1ed5fbef7aa8108e4_1440w.webp&#34; alt=&#34;img&#34; style=&#34;zoom:50%;&#34; /&gt;
+&lt;p&gt;接着提示安装成功&lt;/p&gt;
+&lt;p&gt;![v2-31acaa57c742d68911563eab40005b66_1440w](C:\Users\bokeboke\Pictures\Saved Pictures\v2-31acaa57c742d68911563eab40005b66_1440w.png)&lt;/p&gt;
+&lt;p&gt;6，现在进入后台&lt;/p&gt;
+&lt;img src=&#34;C:\Users\bokeboke\AppData\Roaming\Typora\typora-user-images\image-20230527195606790.png&#34; alt=&#34;image-20230527195606790&#34; style=&#34;zoom: 33%;&#34; /&gt;
+&lt;p&gt;现在就可以撰写文章啦🥳🥳🥳&lt;/p&gt;
+&lt;img src=&#34;C:\Users\bokeboke\AppData\Roaming\Typora\typora-user-images\image-20230527195701367.png&#34; alt=&#34;image-20230527195701367&#34; style=&#34;zoom:50%;&#34; /&gt;
+&lt;hr&gt;
+&lt;h1 id=&#34;总结&#34;&gt;总结&lt;/h1&gt;
+&lt;p&gt;这就是我安装typecho的全部过程，以上步骤是我按照以下教程操作&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;https://www.vps234.com/typecho-anzhuang-jiaocheng/#typecho-step4&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;Typecho安装教程图文详解 - 30分钟轻松搭建一个博客&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;https://zhuanlan.zhihu.com/p/34211709&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;30分钟搭建 Typecho 个人博客教程&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;感谢两位大佬写的教程，同时也希望你也能顺利搭建好typecho博客&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>使用VScode简单配置markdown写作环境</title>
+        <link>https://example.com/p/%E4%BD%BF%E7%94%A8vscode%E7%AE%80%E5%8D%95%E9%85%8D%E7%BD%AEmarkdown%E5%86%99%E4%BD%9C%E7%8E%AF%E5%A2%83/</link>
+        <pubDate>Mon, 31 Jul 2023 19:09:47 +0800</pubDate>
+        
+        <guid>https://example.com/p/%E4%BD%BF%E7%94%A8vscode%E7%AE%80%E5%8D%95%E9%85%8D%E7%BD%AEmarkdown%E5%86%99%E4%BD%9C%E7%8E%AF%E5%A2%83/</guid>
+        <description>&lt;blockquote&gt;
+&lt;p&gt;默认已经安装vscode&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h2 id=&#34;插件安装&#34;&gt;插件安装&lt;/h2&gt;
+&lt;p&gt;必须安装:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Markdown All in One&lt;/li&gt;
+&lt;/ul&gt;
+&lt;blockquote&gt;
+&lt;p&gt;MD 增强多合一插件.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;ul&gt;
+&lt;li&gt;Markdown Preview Enhanced&lt;/li&gt;
+&lt;/ul&gt;
+&lt;blockquote&gt;
+&lt;p&gt;预览视图&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;ul&gt;
+&lt;li&gt;markdownlint&lt;/li&gt;
+&lt;/ul&gt;
+&lt;blockquote&gt;
+&lt;p&gt;markdown语法提示&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;选择安装:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;GitHub Theme&lt;/li&gt;
+&lt;/ul&gt;
+&lt;blockquote&gt;
+&lt;p&gt;github样式主题&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;ul&gt;
+&lt;li&gt;Word Count CJK&lt;/li&gt;
+&lt;/ul&gt;
+&lt;blockquote&gt;
+&lt;p&gt;统计中文字数&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;ul&gt;
+&lt;li&gt;Markdown Preview Github Styling&lt;/li&gt;
+&lt;/ul&gt;
+&lt;blockquote&gt;
+&lt;p&gt;GitHub预览样式&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;以上插件安装完成即可开始markdown的写作&lt;/p&gt;
+&lt;h2 id=&#34;预览样式美化&#34;&gt;预览样式美化&lt;/h2&gt;
+&lt;p&gt;默认的预览样式不太美观,通过参考&lt;a class=&#34;link&#34; href=&#34;https://github.com/Maserhe/VScode-Markdown-theme-Maserhe&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;VScode-Markdown-theme-Maserhe&lt;/a&gt;进行修改&lt;/p&gt;
+&lt;h3 id=&#34;下载配置文件&#34;&gt;下载配置文件&lt;/h3&gt;
+&lt;p&gt;下载&lt;a class=&#34;link&#34; href=&#34;https://github.com/Maserhe/VScode-Markdown-theme-Maserhe/blob/master/mystyle.css&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;mystyle.css&lt;/a&gt;和&lt;a class=&#34;link&#34; href=&#34;https://github.com/Maserhe/VScode-Markdown-theme-Maserhe/blob/master/codeblock.css&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;codeblock.css&lt;/a&gt;
+&lt;img src=&#34;https://raw.githubusercontent.com/zhouyvchen/PicGo/main/picture/VScode-Markdown-theme-Maserhe.png&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;h3 id=&#34;设置配置文件&#34;&gt;设置配置文件&lt;/h3&gt;
+&lt;p&gt;找到&lt;code&gt;C:\Users\用户名\.vscode\extensions\shd101wyy.markdown-preview-enhanced-0.6.8\node_modules\@shd101wyy\mume\styles&lt;/code&gt;
+&lt;img src=&#34;https://raw.githubusercontent.com/zhouyvchen/PicGo/main/picture/style.png&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+	
+&gt;
+将&lt;code&gt;mystyle.css&lt;/code&gt;和&lt;code&gt;codeblock.css&lt;/code&gt;分别放入preview_theme和prism_theme&lt;/p&gt;
+&lt;p&gt;打开settings.json,在配置文件中加入&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&amp;ldquo;markdown- preview- enhanced.previewTheme&amp;rdquo;: &amp;ldquo;mystyle.css&amp;rdquo;&lt;/li&gt;
+&lt;li&gt;&amp;ldquo;markdown- preview-enhanced.codeBlockTheme&amp;rdquo;: &amp;ldquo;codeblock.css&amp;rdquo;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;预览效果&#34;&gt;预览效果&lt;/h3&gt;
+&lt;p&gt;&lt;img src=&#34;https://raw.githubusercontent.com/zhouyvchen/PicGo/main/picture/%E9%A2%84%E8%A7%88%E6%95%88%E6%9E%9C.png&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;预览图片&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;p&gt;code:&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;div class=&#34;chroma&#34;&gt;
+&lt;table class=&#34;lntable&#34;&gt;&lt;tr&gt;&lt;td class=&#34;lntd&#34;&gt;
+&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code&gt;&lt;span class=&#34;lnt&#34;&gt;1
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;2
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;3
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;4
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;5
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;6
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;7
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;8
+&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;
+&lt;td class=&#34;lntd&#34;&gt;
+&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-fallback&#34; data-lang=&#34;fallback&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;func main() {
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;	arr := []int{64, 34, 25, 12, 22, 11, 90}
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;	fmt.Println(&amp;#34;Before sorting:&amp;#34;, arr)
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;	shellSort(arr)
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;	fmt.Println(&amp;#34;After sorting:&amp;#34;, arr)
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;}
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description>
+        </item>
+        <item>
+        <title>测试</title>
+        <link>https://example.com/p/%E6%B5%8B%E8%AF%95/</link>
+        <pubDate>Mon, 31 Jul 2023 14:02:43 +0800</pubDate>
+        
+        <guid>https://example.com/p/%E6%B5%8B%E8%AF%95/</guid>
+        <description>&lt;h1 id=&#34;这是这个测试&#34;&gt;这是这个测试&lt;/h1&gt;
+&lt;p&gt;测试代码：&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;div class=&#34;chroma&#34;&gt;
+&lt;table class=&#34;lntable&#34;&gt;&lt;tr&gt;&lt;td class=&#34;lntd&#34;&gt;
+&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code&gt;&lt;span class=&#34;lnt&#34;&gt;1
+&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;
+&lt;td class=&#34;lntd&#34;&gt;
+&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-fallback&#34; data-lang=&#34;fallback&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;printf(&amp;#34;测试&amp;#34;);
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description>
+        </item>
+        <item>
+        <title>01</title>
+        <link>https://example.com/p/01/</link>
+        <pubDate>Mon, 31 Jul 2023 11:46:39 +0800</pubDate>
+        
+        <guid>https://example.com/p/01/</guid>
+        <description>&lt;p&gt;你好，这是一个测试&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>搜索</title>
+        <link>https://example.com/search/</link>
+        <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+        
+        <guid>https://example.com/search/</guid>
+        <description></description>
+        </item>
+        
+    </channel>
+</rss>

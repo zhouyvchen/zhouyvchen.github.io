@@ -1,0 +1,189 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>Typecho on 关于Zhouyvchen的一切</title>
+        <link>https://example.com/tags/typecho/</link>
+        <description>Recent content in Typecho on 关于Zhouyvchen的一切</description>
+        <generator>Hugo -- gohugo.io</generator>
+        <language>zh-cn</language>
+        <copyright>ZHOUYVCHEN</copyright>
+        <lastBuildDate>Tue, 01 Aug 2023 17:38:06 +0800</lastBuildDate><atom:link href="https://example.com/tags/typecho/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>记录：Typecho搭建</title>
+        <link>https://example.com/p/%E8%AE%B0%E5%BD%95typecho%E6%90%AD%E5%BB%BA/</link>
+        <pubDate>Tue, 01 Aug 2023 17:38:06 +0800</pubDate>
+        
+        <guid>https://example.com/p/%E8%AE%B0%E5%BD%95typecho%E6%90%AD%E5%BB%BA/</guid>
+        <description>&lt;h1 id=&#34;前言&#34;&gt;前言&lt;/h1&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;为什么选择-typecho-&#34;&gt;为什么选择 typecho ？&lt;/h2&gt;
+&lt;p&gt;相比于wordpress，typecho轻量极简的特点成为我选择它的理由。&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;typecho的官方网站：&lt;a class=&#34;link&#34; href=&#34;https://typecho.org/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;typecho.org&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;typecho Github地址：&lt;a class=&#34;link&#34; href=&#34;https://github.com/typecho/typecho&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://github.com/typecho/typecho&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;域名购买&#34;&gt;域名购买&lt;/h2&gt;
+&lt;p&gt;我选择的是&lt;a class=&#34;link&#34; href=&#34;https://hk.godaddy.com/en&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;Godaddy&lt;/a&gt;&lt;/p&gt;
+&lt;h3 id=&#34;理由&#34;&gt;理由&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;大厂&lt;/li&gt;
+&lt;li&gt;相对于国内平台不用备案&lt;/li&gt;
+&lt;li&gt;相比其他国外平台支持支付宝&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;购买-vps&#34;&gt;购买 VPS&lt;/h2&gt;
+&lt;p&gt;因为零经验，全靠网上查教程，按照教程在&lt;a class=&#34;link&#34; href=&#34;https://www.hostwinds.com/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;hostwinds.com&lt;/a&gt;上购买了VPS，即使是最便宜的服务，也是8$/moth，后来朋友告诉我价格偏高&lt;/p&gt;
+&lt;p&gt;实际上如果你是学生完全可以选择&lt;a class=&#34;link&#34; href=&#34;cloud.tencent.com&#34; &gt;腾讯云&lt;/a&gt;上购买&lt;a class=&#34;link&#34; href=&#34;https://cloud.tencent.com/act/campus#step1&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;校园云服务器&lt;/a&gt;&lt;/p&gt;
+&lt;img src=&#34;C:\Users\bokeboke\Pictures\Screenshots\屏幕截图 2023-05-27 200654.png&#34; alt=&#34;屏幕截图 2023-05-27 200654&#34; style=&#34;zoom:33%;&#34; /&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;连接-vps&#34;&gt;连接 VPS&lt;/h2&gt;
+&lt;p&gt;&lt;code&gt;注：此处以_Hostwinds_为例&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;购买成功后，你有两个途径可以获得你所购买的VPS的信息&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;购买成功后的邮件&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;_Hostwinds_的后台管理界面&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;邮件&#34;&gt;邮件&lt;/h3&gt;
+&lt;img src=&#34;C:\Users\bokeboke\Pictures\Screenshots\屏幕截图 2023-05-27 181824.png&#34; alt=&#34;屏幕截图 2023-05-27 181824&#34; style=&#34;zoom:50%;&#34; /&gt;
+&lt;p&gt;你需要记下ip，用户名和密码&lt;/p&gt;
+&lt;h3 id=&#34;_hostwinds_后台&#34;&gt;_Hostwinds_后台&lt;/h3&gt;
+&lt;p&gt;&lt;img src=&#34;C:\Users\bokeboke\Pictures\Screenshots\屏幕截图 2023-05-27 180515.png&#34; alt=&#34;屏幕截图 2023-05-27 180515&#34; style=&#34;zoom:50%;&#34; /&gt;1，点击右下角&lt;font color=&#34;green&#34;&gt;Manage&lt;/font&gt;进入&lt;/p&gt;
+&lt;img src=&#34;C:\Users\bokeboke\Pictures\Screenshots\屏幕截图 2023-05-27 181301.png&#34; alt=&#34;屏幕截图 2023-05-27 181301&#34; style=&#34;zoom:50%;&#34; /&gt;
+&lt;p&gt;2，接着点击&lt;font color=&#34;green&#34;&gt;Click here to Manage This Server&lt;/font&gt;进入具体的管理界面&lt;img src=&#34;C:\Users\bokeboke\Pictures\Screenshots\屏幕截图 2023-05-27 183005.png&#34; alt=&#34;屏幕截图 2023-05-27 183005&#34; style=&#34;zoom:50%;&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;3，在此界面你可以看到ip，点击_VIEW PASSWORD_你可以查看密码，由于Linux vps默认用户名都是“root”，所以在此没有显示&lt;/p&gt;
+&lt;h3 id=&#34;下载连接工具&#34;&gt;下载连接工具&lt;/h3&gt;
+&lt;p&gt;1，由于连接Linux vps是需要工具的，所以我们需要下载连接工具&lt;/p&gt;
+&lt;p&gt;windows用户我推荐使用 xshell&lt;/p&gt;
+&lt;p&gt;&lt;code&gt;xshell官网：https://www.xshell.com/zh/xshell/&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;2，由于xshell本身是需要购买，但它可以获取免费的家庭or学校版本，进入此网址并填写邮箱，家庭or教育版将会发送到该邮箱&lt;/p&gt;
+&lt;p&gt;&lt;code&gt;获得家庭or教育版：https://www.xshell.com/zh/free-for-home-school/&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;没有邮箱的朋友可以通过我的分享链接下载&lt;/p&gt;
+&lt;p&gt;&lt;code&gt;下载链接：https://wwuh.lanzout.com/iyoWz0xfnxgb 密码:98mm&lt;/code&gt;&lt;/p&gt;
+&lt;h3 id=&#34;通过xshell连接vps&#34;&gt;通过xshell连接vps&lt;/h3&gt;
+&lt;p&gt;1,首先打开xshell，点击文件，选择新建&lt;img src=&#34;C:\Users\bokeboke\Pictures\Screenshots\屏幕截图 2023-05-27 184844.png&#34; alt=&#34;屏幕截图 2023-05-27 184844&#34; style=&#34;zoom: 50%;&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;2，在连接界面&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;名称可以随便取一个&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;主机填自己的ip&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;端口默认&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;img src=&#34;C:\Users\bokeboke\Pictures\Screenshots\屏幕截图 2023-05-27 185112.png&#34; alt=&#34;屏幕截图 2023-05-27 185112&#34; style=&#34;zoom:50%;&#34; /&gt;
+&lt;p&gt;3，用户输入root&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://vps234.oss-cn-shanghai.aliyuncs.com/Content/2018-12-11/xshell-connect-linux-vps-2.jpg&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;Linux VPS远程连接新手教程示例3&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;p&gt;4，输入密码，记住密码&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://vps234.oss-cn-shanghai.aliyuncs.com/Content/2018-12-11/xshell-connect-linux-vps-3.jpg&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;Linux VPS远程连接新手教程示例4&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;p&gt;5，成功连接界面如图&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://vps234.oss-cn-shanghai.aliyuncs.com/Content/2018-12-11/xshell-connect-linux-vps-4.jpg&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;Linux VPS远程连接新手教程示例5&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;p&gt;&lt;code&gt;注：如果显示“WARNING! The remote SSH server rejected X11 forwarding request.“也是正常的&lt;/code&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;安装宝塔面板&#34;&gt;安装宝塔面板&lt;/h2&gt;
+&lt;p&gt;宝塔面板是通过可视化界面来管理你的云服务器(Linux或者Window系统),节省操作服务器的时间和精力成本,可以一键安装和搭建网站,可以一键安装PHP运行环境,一键安装java运行环境,一键安装各种开发环境.普通人用的最多的就是搭建和部署网站，对于非专业用户很方便&lt;/p&gt;
+&lt;p&gt;连接上vps之后，在xshell的会话窗口输入脚本安装宝塔面板&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Centos&lt;/strong&gt;:yum install -y wget &amp;amp;&amp;amp; wget -O install.sh &lt;a class=&#34;link&#34; href=&#34;https://download.bt.cn/install/install_6.0.sh&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://download.bt.cn/install/install_6.0.sh&lt;/a&gt; &amp;amp;&amp;amp; sh install.sh ed8484bec&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Ubuntu/Deepin&lt;/strong&gt;:wget -O install.sh &lt;a class=&#34;link&#34; href=&#34;https://download.bt.cn/install/install-ubuntu_6.0.sh&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://download.bt.cn/install/install-ubuntu_6.0.sh&lt;/a&gt; &amp;amp;&amp;amp; sudo bash install.sh ed8484bec&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Debian&lt;/strong&gt;:wget -O install.sh &lt;a class=&#34;link&#34; href=&#34;https://download.bt.cn/install/install-ubuntu_6.0.sh&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://download.bt.cn/install/install-ubuntu_6.0.sh&lt;/a&gt; &amp;amp;&amp;amp; bash install.sh ed8484bec&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;接着提示是否继续，输入y，回车继续，等待一段时间后会提示&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;外网面板地址&lt;/li&gt;
+&lt;li&gt;内网面板地址&lt;/li&gt;
+&lt;li&gt;username&lt;/li&gt;
+&lt;li&gt;password&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;复制地址在浏览器粘贴进入，输入用户名和密码登录&lt;/p&gt;
+&lt;p&gt;提示绑定宝塔账号，用手机号注册一个就行，绑定好之后会提示安装lnmp&lt;/p&gt;
+&lt;img src=&#34;https://vps234.oss-cn-shanghai.aliyuncs.com/Content/1-2022/2022-4-26/6.jpg&#34; alt=&#34;Typecho博客搭建 - 宝塔安装 - LNMP安装&#34; style=&#34;zoom:80%;&#34; /&gt;
+&lt;p&gt;typecho支持php 5.1以上的版本，但最新版typecho需要php 7.1，所以选择php 7.2以上最好，其余默认就好，选择急速安装&lt;/p&gt;
+&lt;p&gt;等待一段时间后安装完毕&lt;/p&gt;
+&lt;h2 id=&#34;创建网站&#34;&gt;创建网站&lt;/h2&gt;
+&lt;p&gt;点击网站，在”php“下创建项目&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;填写域名&lt;/li&gt;
+&lt;li&gt;创建ftp&lt;/li&gt;
+&lt;li&gt;创建数据库mysol&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;保存好ftp和数据库的账号和密码&lt;/p&gt;
+&lt;img src=&#34;C:\Users\bokeboke\Pictures\Screenshots\屏幕截图 2023-05-27 194125.png&#34; alt=&#34;屏幕截图 2023-05-27 194125&#34; style=&#34;zoom:50%;&#34; /&gt;
+&lt;h2 id=&#34;安装typecho&#34;&gt;安装typecho&lt;/h2&gt;
+&lt;p&gt;&lt;code&gt;typecho的官网：https://typecho.org/&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;1，将typecho的压缩包下载在电脑上&lt;/p&gt;
+&lt;p&gt;2，进入宝塔面板，点击“网站”，选择“根目录”&lt;/p&gt;
+&lt;p&gt;![屏幕截图 2023-05-27 194551](C:\Users\bokeboke\Pictures\Screenshots\屏幕截图 2023-05-27 194551.png)&lt;/p&gt;
+&lt;p&gt;3，进入根目录后删除里面的所有文件，接着上传typecho的压缩包，解压在本目录，删除压缩包&lt;/p&gt;
+&lt;p&gt;4，在浏览器输入“你的域名/installphp”&lt;/p&gt;
+&lt;p&gt;&lt;code&gt;如果出现“File not found.”，可能是Nginx没打开，进入宝塔面板，点击软件商店，选择Nginx设置，将它打开&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;5，你会进入typecho安装界面，跟随引导安装&lt;/p&gt;
+&lt;img src=&#34;https://pic1.zhimg.com/80/v2-4051ff54ee9bd7e1ed5fbef7aa8108e4_1440w.webp&#34; alt=&#34;img&#34; style=&#34;zoom:50%;&#34; /&gt;
+&lt;p&gt;接着提示安装成功&lt;/p&gt;
+&lt;p&gt;![v2-31acaa57c742d68911563eab40005b66_1440w](C:\Users\bokeboke\Pictures\Saved Pictures\v2-31acaa57c742d68911563eab40005b66_1440w.png)&lt;/p&gt;
+&lt;p&gt;6，现在进入后台&lt;/p&gt;
+&lt;img src=&#34;C:\Users\bokeboke\AppData\Roaming\Typora\typora-user-images\image-20230527195606790.png&#34; alt=&#34;image-20230527195606790&#34; style=&#34;zoom: 33%;&#34; /&gt;
+&lt;p&gt;现在就可以撰写文章啦🥳🥳🥳&lt;/p&gt;
+&lt;img src=&#34;C:\Users\bokeboke\AppData\Roaming\Typora\typora-user-images\image-20230527195701367.png&#34; alt=&#34;image-20230527195701367&#34; style=&#34;zoom:50%;&#34; /&gt;
+&lt;hr&gt;
+&lt;h1 id=&#34;总结&#34;&gt;总结&lt;/h1&gt;
+&lt;p&gt;这就是我安装typecho的全部过程，以上步骤是我按照以下教程操作&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;https://www.vps234.com/typecho-anzhuang-jiaocheng/#typecho-step4&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;Typecho安装教程图文详解 - 30分钟轻松搭建一个博客&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;https://zhuanlan.zhihu.com/p/34211709&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;30分钟搭建 Typecho 个人博客教程&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;感谢两位大佬写的教程，同时也希望你也能顺利搭建好typecho博客&lt;/p&gt;
+</description>
+        </item>
+        
+    </channel>
+</rss>
