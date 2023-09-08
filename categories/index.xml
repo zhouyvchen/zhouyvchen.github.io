@@ -6,6 +6,23 @@
         <description>Recent content in Categories on 关于Zhouyvchen的一切</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>zh-cn</language>
-        <copyright>ZHOUYVCHEN</copyright><atom:link href="https://example.com/categories/index.xml" rel="self" type="application/rss+xml" />
+        <copyright>ZHOUYVCHEN</copyright>
+        <lastBuildDate>Sat, 09 Sep 2023 00:04:46 +0800</lastBuildDate><atom:link href="https://example.com/categories/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>生活</title>
+        <link>https://example.com/categories/%E7%94%9F%E6%B4%BB/</link>
+        <pubDate>Sat, 09 Sep 2023 00:04:46 +0800</pubDate>
+        
+        <guid>https://example.com/categories/%E7%94%9F%E6%B4%BB/</guid>
+        <description></description>
+        </item>
+        <item>
+        <title>记录</title>
+        <link>https://example.com/categories/%E8%AE%B0%E5%BD%95/</link>
+        <pubDate>Tue, 01 Aug 2023 17:38:06 +0800</pubDate>
+        
+        <guid>https://example.com/categories/%E8%AE%B0%E5%BD%95/</guid>
+        <description></description>
+        </item>
+        
     </channel>
 </rss>

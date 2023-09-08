@@ -7,7 +7,7 @@
         <generator>Hugo -- gohugo.io</generator>
         <language>zh-cn</language>
         <copyright>ZHOUYVCHEN</copyright>
-        <lastBuildDate>Thu, 31 Aug 2023 09:48:27 +0800</lastBuildDate><atom:link href="https://example.com/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Sat, 09 Sep 2023 00:04:46 +0800</lastBuildDate><atom:link href="https://example.com/index.xml" rel="self" type="application/rss+xml" /><item>
         <title>暑假</title>
         <link>https://example.com/p/%E6%9A%91%E5%81%87/</link>
         <pubDate>Sun, 13 Aug 2023 10:59:42 +0800</pubDate>
@@ -117,6 +117,14 @@
 &lt;p&gt;人们说中国人最爱反思，做什么事都要反思，但是我无力，心中羞愧。&lt;/p&gt;
 &lt;p&gt;我和朋友说：“很多年以后，我也爱吃炸鸡喝可乐。我以后最想过的生活就是一日三餐都能去快餐店吃饭。“&lt;/p&gt;
 </description>
+        </item>
+        <item>
+        <title>太空漫步开箱</title>
+        <link>https://example.com/p/%E5%A4%AA%E7%A9%BA%E6%BC%AB%E6%AD%A5%E5%BC%80%E7%AE%B1/</link>
+        <pubDate>Sat, 09 Sep 2023 00:04:46 +0800</pubDate>
+        
+        <guid>https://example.com/p/%E5%A4%AA%E7%A9%BA%E6%BC%AB%E6%AD%A5%E5%BC%80%E7%AE%B1/</guid>
+        <description></description>
         </item>
         <item>
         <title>归档</title>
@@ -541,15 +549,6 @@
 &lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
 &lt;/div&gt;
 &lt;/div&gt;</description>
-        </item>
-        <item>
-        <title>01</title>
-        <link>https://example.com/p/01/</link>
-        <pubDate>Mon, 31 Jul 2023 11:46:39 +0800</pubDate>
-        
-        <guid>https://example.com/p/01/</guid>
-        <description>&lt;p&gt;你好，这是一个测试&lt;/p&gt;
-</description>
         </item>
         <item>
         <title>搜索</title>

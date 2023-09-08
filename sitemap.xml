@@ -5,10 +5,34 @@
     <loc>https://example.com/p/%E6%9A%91%E5%81%87/</loc>
     <lastmod>2023-08-13T10:59:42+08:00</lastmod>
   </url><url>
-    <loc>https://example.com/page/</loc>
-    <lastmod>2023-08-31T09:48:27+08:00</lastmod>
+    <loc>https://example.com/categories/</loc>
+    <lastmod>2023-09-09T00:04:46+08:00</lastmod>
+  </url><url>
+    <loc>https://example.com/post/</loc>
+    <lastmod>2023-09-09T00:04:46+08:00</lastmod>
+  </url><url>
+    <loc>https://example.com/tags/</loc>
+    <lastmod>2023-09-09T00:04:46+08:00</lastmod>
+  </url><url>
+    <loc>https://example.com/tags/%E8%80%B3%E6%9C%BA/</loc>
+    <lastmod>2023-09-09T00:04:46+08:00</lastmod>
   </url><url>
     <loc>https://example.com/</loc>
+    <lastmod>2023-09-09T00:04:46+08:00</lastmod>
+  </url><url>
+    <loc>https://example.com/tags/%E5%BC%80%E7%AE%B1/</loc>
+    <lastmod>2023-09-09T00:04:46+08:00</lastmod>
+  </url><url>
+    <loc>https://example.com/categories/%E7%94%9F%E6%B4%BB/</loc>
+    <lastmod>2023-09-09T00:04:46+08:00</lastmod>
+  </url><url>
+    <loc>https://example.com/tags/%E6%95%B0%E7%A0%81/</loc>
+    <lastmod>2023-09-09T00:04:46+08:00</lastmod>
+  </url><url>
+    <loc>https://example.com/p/%E5%A4%AA%E7%A9%BA%E6%BC%AB%E6%AD%A5%E5%BC%80%E7%AE%B1/</loc>
+    <lastmod>2023-09-09T00:04:46+08:00</lastmod>
+  </url><url>
+    <loc>https://example.com/page/</loc>
     <lastmod>2023-08-31T09:48:27+08:00</lastmod>
   </url><url>
     <loc>https://example.com/archives/</loc>
@@ -17,27 +41,44 @@
     <loc>https://example.com/%E5%85%B3%E4%BA%8E/</loc>
     <lastmod>2023-08-31T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.com/post/</loc>
+    <loc>https://example.com/tags/%E6%9A%91%E5%81%87/</loc>
     <lastmod>2023-08-13T10:59:42+08:00</lastmod>
   </url><url>
+    <loc>https://example.com/tags/blog/</loc>
+    <lastmod>2023-08-01T17:38:06+08:00</lastmod>
+  </url><url>
+    <loc>https://example.com/tags/typecho/</loc>
+    <lastmod>2023-08-01T17:38:06+08:00</lastmod>
+  </url><url>
     <loc>https://example.com/p/%E5%B8%B8%E7%94%A8%E7%94%B5%E8%84%91%E8%BD%AF%E4%BB%B6%E6%8E%A8%E8%8D%90/</loc>
+    <lastmod>2023-08-01T17:38:06+08:00</lastmod>
+  </url><url>
+    <loc>https://example.com/categories/%E8%AE%B0%E5%BD%95/</loc>
     <lastmod>2023-08-01T17:38:06+08:00</lastmod>
   </url><url>
     <loc>https://example.com/p/%E8%AE%B0%E5%BD%95typecho%E6%90%AD%E5%BB%BA/</loc>
     <lastmod>2023-08-01T17:38:06+08:00</lastmod>
   </url><url>
+    <loc>https://example.com/tags/%E5%AE%9E%E7%94%A8%E8%BD%AF%E4%BB%B6/</loc>
+    <lastmod>2023-08-01T17:38:06+08:00</lastmod>
+  </url><url>
+    <loc>https://example.com/tags/%E6%8E%A8%E8%8D%90/</loc>
+    <lastmod>2023-08-01T17:38:06+08:00</lastmod>
+  </url><url>
+    <loc>https://example.com/tags/markdown/</loc>
+    <lastmod>2023-07-31T19:09:47+08:00</lastmod>
+  </url><url>
+    <loc>https://example.com/tags/vscode/</loc>
+    <lastmod>2023-07-31T19:09:47+08:00</lastmod>
+  </url><url>
     <loc>https://example.com/p/%E4%BD%BF%E7%94%A8vscode%E7%AE%80%E5%8D%95%E9%85%8D%E7%BD%AEmarkdown%E5%86%99%E4%BD%9C%E7%8E%AF%E5%A2%83/</loc>
     <lastmod>2023-07-31T19:09:47+08:00</lastmod>
   </url><url>
-    <loc>https://example.com/p/%E6%B5%8B%E8%AF%95/</loc>
+    <loc>https://example.com/tags/%E6%B5%8B%E8%AF%95/</loc>
     <lastmod>2023-07-31T14:02:43+08:00</lastmod>
   </url><url>
-    <loc>https://example.com/p/01/</loc>
-    <lastmod>2023-07-31T11:46:39+08:00</lastmod>
-  </url><url>
-    <loc>https://example.com/categories/</loc>
-  </url><url>
-    <loc>https://example.com/tags/</loc>
+    <loc>https://example.com/p/%E6%B5%8B%E8%AF%95/</loc>
+    <lastmod>2023-07-31T14:02:43+08:00</lastmod>
   </url><url>
     <loc>https://example.com/search/</loc>
   </url>
