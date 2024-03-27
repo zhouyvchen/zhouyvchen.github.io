@@ -6,21 +6,14 @@
     <description>Recent content in Posts on 关于𝚉𝚑𝚘𝚞𝚢𝚞𝚌𝚑𝚎的一切</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Wed, 27 Mar 2024 20:27:17 +0800</lastBuildDate>
+    <lastBuildDate>Wed, 27 Mar 2024 20:33:27 +0800</lastBuildDate>
     <atom:link href="http://localhost:1313/post/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>你好，我的第一篇博客</title>
-      <link>http://localhost:1313/post/%E4%BD%A0%E5%A5%BD%E6%88%91%E7%9A%84%E7%AC%AC%E4%B8%80%E7%AF%87%E5%8D%9A%E5%AE%A2/</link>
-      <pubDate>Wed, 27 Mar 2024 20:26:58 +0800</pubDate>
-      <guid>http://localhost:1313/post/%E4%BD%A0%E5%A5%BD%E6%88%91%E7%9A%84%E7%AC%AC%E4%B8%80%E7%AF%87%E5%8D%9A%E5%AE%A2/</guid>
-      <description>抑制不住心情想说： “你好，世界！ 好像这是我第一次与世界所联系，或者说：“你好，互联网”，更准确呢。</description>
-    </item>
     <item>
       <title>Test</title>
       <link>http://localhost:1313/post/test/</link>
-      <pubDate>Thu, 07 Mar 2024 21:58:41 +0800</pubDate>
+      <pubDate>Wed, 27 Mar 2024 20:33:17 +0800</pubDate>
       <guid>http://localhost:1313/post/test/</guid>
-      <description>这是一个测试</description>
+      <description>Test This is a test post.</description>
     </item>
   </channel>
 </rss>
