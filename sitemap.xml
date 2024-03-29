@@ -17,6 +17,21 @@
     <loc>http://localhost:1313/</loc>
     <lastmod>2024-03-28T13:39:14+08:00</lastmod>
   </url><url>
+    <loc>http://localhost:1313/tags/</loc>
+    <lastmod>2023-07-30T00:19:32+08:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/categories/%E8%AE%B0%E5%BD%95/</loc>
+    <lastmod>2023-07-30T00:19:32+08:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/%E6%9A%91%E5%81%87/</loc>
+    <lastmod>2023-07-30T00:19:32+08:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/p/%E6%9A%91%E5%81%87%E4%B8%AD%E7%9A%84%E7%A7%8D%E7%A7%8D/</loc>
+    <lastmod>2023-07-30T00:19:32+08:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/p/%E4%BD%A0%E5%A5%BD%E6%88%91%E7%9A%84%E7%AC%AC%E4%B8%80%E7%AF%87%E5%8D%9A%E5%AE%A2/</loc>
+    <lastmod>2023-06-04T23:55:58+08:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/page/</loc>
     <lastmod>2020-10-09T00:00:00+00:00</lastmod>
   </url><url>
@@ -25,8 +40,6 @@
   </url><url>
     <loc>http://localhost:1313/%E5%85%B3%E4%BA%8E/</loc>
     <lastmod>2020-10-09T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/</loc>
   </url><url>
     <loc>http://localhost:1313/search/</loc>
   </url><url>
