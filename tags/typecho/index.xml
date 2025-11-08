@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
         <title>Typecho on 关于zhouyvchen的一切</title>
-        <link>http://localhost:1313/tags/typecho/</link>
+        <link>https://zhyouy.github.io/tags/typecho/</link>
         <description>Recent content in Typecho on 关于zhouyvchen的一切</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>zh-cn</language>
         <copyright>Zhouyuchen</copyright>
-        <lastBuildDate>Fri, 30 Jun 2023 18:28:51 +0800</lastBuildDate><atom:link href="http://localhost:1313/tags/typecho/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Fri, 30 Jun 2023 18:28:51 +0800</lastBuildDate><atom:link href="https://zhyouy.github.io/tags/typecho/index.xml" rel="self" type="application/rss+xml" /><item>
         <title>记录Typecho搭建</title>
-        <link>http://localhost:1313/p/%E8%AE%B0%E5%BD%95typecho%E6%90%AD%E5%BB%BA/</link>
+        <link>https://zhyouy.github.io/p/%E8%AE%B0%E5%BD%95typecho%E6%90%AD%E5%BB%BA/</link>
         <pubDate>Fri, 30 Jun 2023 18:28:51 +0800</pubDate>
         
-        <guid>http://localhost:1313/p/%E8%AE%B0%E5%BD%95typecho%E6%90%AD%E5%BB%BA/</guid>
+        <guid>https://zhyouy.github.io/p/%E8%AE%B0%E5%BD%95typecho%E6%90%AD%E5%BB%BA/</guid>
         <description>&lt;h1 id=&#34;前言&#34;&gt;前言
 &lt;/h1&gt;&lt;hr&gt;
 &lt;h2 id=&#34;为什么选择-typecho-&#34;&gt;为什么选择 typecho ？
