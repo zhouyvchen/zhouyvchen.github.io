@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
         <title>技术 on 关于zhouyvchen的一切</title>
-        <link>http://localhost:1313/categories/%E6%8A%80%E6%9C%AF/</link>
+        <link>https://zhyouy.github.io/categories/%E6%8A%80%E6%9C%AF/</link>
         <description>Recent content in 技术 on 关于zhouyvchen的一切</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>zh-cn</language>
         <copyright>Zhouyuchen</copyright>
-        <lastBuildDate>Sun, 31 Mar 2024 18:34:54 +0800</lastBuildDate><atom:link href="http://localhost:1313/categories/%E6%8A%80%E6%9C%AF/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Sun, 31 Mar 2024 18:34:54 +0800</lastBuildDate><atom:link href="https://zhyouy.github.io/categories/%E6%8A%80%E6%9C%AF/index.xml" rel="self" type="application/rss+xml" /><item>
         <title>配置VScode作为Markdown编辑器</title>
-        <link>http://localhost:1313/p/%E9%85%8D%E7%BD%AEvscode%E4%BD%9C%E4%B8%BAmarkdown%E7%BC%96%E8%BE%91%E5%99%A8/</link>
+        <link>https://zhyouy.github.io/p/%E9%85%8D%E7%BD%AEvscode%E4%BD%9C%E4%B8%BAmarkdown%E7%BC%96%E8%BE%91%E5%99%A8/</link>
         <pubDate>Sun, 31 Mar 2024 18:34:54 +0800</pubDate>
         
-        <guid>http://localhost:1313/p/%E9%85%8D%E7%BD%AEvscode%E4%BD%9C%E4%B8%BAmarkdown%E7%BC%96%E8%BE%91%E5%99%A8/</guid>
+        <guid>https://zhyouy.github.io/p/%E9%85%8D%E7%BD%AEvscode%E4%BD%9C%E4%B8%BAmarkdown%E7%BC%96%E8%BE%91%E5%99%A8/</guid>
         <description>&lt;h1 id=&#34;使用vscode简单配置markdown写作环境&#34;&gt;使用VScode简单配置markdown写作环境
 &lt;/h1&gt;&lt;blockquote&gt;
 &lt;p&gt;默认已经安装vscode&lt;/p&gt;
@@ -126,10 +126,10 @@
         </item>
         <item>
         <title>记录Typecho搭建</title>
-        <link>http://localhost:1313/p/%E8%AE%B0%E5%BD%95typecho%E6%90%AD%E5%BB%BA/</link>
+        <link>https://zhyouy.github.io/p/%E8%AE%B0%E5%BD%95typecho%E6%90%AD%E5%BB%BA/</link>
         <pubDate>Fri, 30 Jun 2023 18:28:51 +0800</pubDate>
         
-        <guid>http://localhost:1313/p/%E8%AE%B0%E5%BD%95typecho%E6%90%AD%E5%BB%BA/</guid>
+        <guid>https://zhyouy.github.io/p/%E8%AE%B0%E5%BD%95typecho%E6%90%AD%E5%BB%BA/</guid>
         <description>&lt;h1 id=&#34;前言&#34;&gt;前言
 &lt;/h1&gt;&lt;hr&gt;
 &lt;h2 id=&#34;为什么选择-typecho-&#34;&gt;为什么选择 typecho ？
